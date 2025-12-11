@@ -1,1 +1,126 @@
-hola
+# 🍰 DeliCake
+![Status](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-pink)
+![Flask](https://img.shields.io/badge/Flask-Framework-white)
+
+**DeliCake: Plataforma de ventas en línea de productos de repostería personalizada**
+
+---
+
+## 2. Descripción
+n
+DeliCake es un sistema web que permite a los usuarios explorar un catálogo de productos de repostería, personalizarlos y realizar pedidos bajo demanda. La producción se realiza únicamente cuando un cliente hace un pedido, evitando el desperdicio de alimentos.  
+
+---
+
+## 3. 🚀 Características principales
+
+- Catálogo dinámico de productos.
+- Pedidos personalizados según preferencia del cliente.
+- Producción bajo demanda (no se fabrican productos para exhibición).
+- Interfaz amigable y visual.
+- Panel para ver pedidos y estados.
+- Flujo de compra claro y rápido.
+
+---
+
+## 4. 🛠️ Tecnologías utilizadas
+
+### *Frontend*
+- HTML5  
+- CSS3  
+- JavaScript (funciones interactivas)
+
+### *Backend*
+- Python 3  
+- Flask (framework principal)
+
+### *Base de datos*
+- MySQL
+---
+
+## 📋 Pre-requisitos
+
+Para ejecutar el proyecto necesitas:
+
+- Python 3.10 o superior
+- Pip
+- Un navegador web
+- MySQL
+
+   ```bash
+   python --version
+   pip --version
+---
+## 5. Instalación Local (pasos para correrlo)
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/usuario/delicake.git
+   cd delicake
+
+2. **Instalar las dependencias**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Ejecutar la aplicacion**
+   ```bash
+   python app.py
+4. **Abir en el navegador *
+   ```bash
+   https://127.0.0.1:5000/
+---
+## 6. Despliegue
+
+Este proyecto se encuentra desplegado y disponible para su uso en el siguiente enlace:
+
+👉 **URL del despliegue:** [https://tu-proyecto.com](https://tu-proyecto.com)
+
+El despliegue permite acceder a la aplicación desde cualquier dispositivo con conexión a internet, sin necesidad de instalar dependencias localmente.  
+En caso de realizar actualizaciones, los cambios se verán reflejados automáticamente en el entorno de producción.
+
+---
+## 7. Uso 
+
+Una vez la aplicación está en ejecución, el usuario puede navegar por las diferentes secciones del sistema.  
+Desde la página principal, es posible explorar los productos disponibles, agregar artículos al carrito, realizar pedidos y verificar su estado.  
+La interfaz está diseñada para ser intuitiva, rápida y fácil de usar.
+
+### Flujo básico de uso:
+1. Entrar a la página principal.
+   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+2. Visualizar el catalogo de productos
+   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+3. Agregar al carrito el producto
+   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+4. Personalizar el producto
+   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+5. Confirmar el pedido llenando la información necesaria.
+   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+
+   
+---
+## 8. 📚 Documentación del Proyecto
+
+A continuación puedes consultar los documentos principales de la aplicación **Delicake**:
+
+- 📘 **Manual de Usuario** — [Ver documento](https://drive.google.com/open?id=1pWFjozwWumGysRNY2XGQ02k8Tni37k5JmoWr1Eh9lOU&usp=drive_copy)
+- 🛠️ **Manual Técnico** — [Ver documento](LINK_AQUI)
+---
+## 9. Autores ✒️
+
+Este proyecto fue desarrollado por:
+
+- **Mariana Rojas Rodriguez** 
+- **Diana Lucia Ovalle Cardozo**
+- **Cesar Alejandro Vargas Pimentel**
+  
+Participamos conjuntamente en todas las etapas del proyecto: diseño, frontend, backend, documentación, pruebas y despliegue.
+
+#### Agradecemos el esfuerzo colaborativo del equipo para llevar este proyecto a cabo.
+
+---
+## Derechos Reservados ⚖️
+
+Todos los archivos, imágenes y código de este proyecto son propiedad del equipo **Delicake**.  
+Queda prohibida la copia, modificación, distribución o uso con fines comerciales sin autorización previa de las autoras.
