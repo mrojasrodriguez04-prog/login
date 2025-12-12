@@ -8,7 +8,6 @@
 ---
 
 ## 2. Descripción
-n
 DeliCake es un sistema web que permite a los usuarios explorar un catálogo de productos de repostería, personalizarlos y realizar pedidos bajo demanda. La producción se realiza únicamente cuando un cliente hace un pedido, evitando el desperdicio de alimentos.  
 
 ---
@@ -70,14 +69,27 @@ Para ejecutar el proyecto necesitas:
    ```bash
    https://127.0.0.1:5000/
 ---
-## 6. Despliegue
+## 6. 🌐 Despliegue
 
-Este proyecto se encuentra desplegado y disponible para su uso en el siguiente enlace:
+El proyecto **Delicake** está desplegado en la plataforma **Render**, un servicio en la nube que permite publicar aplicaciones web basadas en Python y Flask.
 
-👉 **URL del despliegue:** [https://tu-proyecto.com](https://tu-proyecto.com)
+### 🔧 ¿Cómo se realizó el despliegue en Render?
 
-El despliegue permite acceder a la aplicación desde cualquier dispositivo con conexión a internet, sin necesidad de instalar dependencias localmente.  
-En caso de realizar actualizaciones, los cambios se verán reflejados automáticamente en el entorno de producción.
+1. Se creó una cuenta en **Render.com**.
+2. Se subió el repositorio del proyecto a **GitHub**.
+3. Desde Render se seleccionó la opción **"Web Service"**.
+4. Se conectó Render con el repositorio del proyecto.
+5. En la configuración del servicio se definieron:
+   - **Runtime:** Python  
+   - **Build Command:** `pip install -r requirements.txt`  
+   - **Start Command:** `python app.py`
+6. Render generó automáticamente un servidor y asignó la URL pública del proyecto.
+7. Cada vez que se actualiza el repositorio en GitHub, Render realiza un redeploy automático.
+
+### 🔗 Enlace del despliegue
+
+👉 **Delicake en línea:**  
+https://TU-LINK-DE-RENDER-AQUI.com
 
 ---
 ## 7. Uso 
@@ -88,15 +100,15 @@ La interfaz está diseñada para ser intuitiva, rápida y fácil de usar.
 
 ### Flujo básico de uso:
 1. Entrar a la página principal.
-   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+   ![Captura de ejemplo de Delicake](static/img/imagen.png)
 2. Visualizar el catalogo de productos
-   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+   ![Captura de ejemplo de Delicake](static/img/imagen1.png)
 3. Agregar al carrito el producto
-   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+   ![Captura de ejemplo de Delicake](static/img/imagen2.png)
 4. Personalizar el producto
-   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+   ![Captura de ejemplo de Delicake](static/img/imagen3.png)
 5. Confirmar el pedido llenando la información necesaria.
-   ![Captura de ejemplo de Delicake](ruta/de/tu/imagen.png)
+   ![Captura de ejemplo de Delicake](static/img/imagen4.png)
 
    
 ---
