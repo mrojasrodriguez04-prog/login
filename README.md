@@ -105,7 +105,7 @@ La interfaz está diseñada para ser intuitiva, rápida y fácil de usar.
 A continuación puedes consultar los documentos principales de la aplicación **Delicake**:
 
 - 📘 **Manual de Usuario** — [Ver documento](https://drive.google.com/open?id=1pWFjozwWumGysRNY2XGQ02k8Tni37k5JmoWr1Eh9lOU&usp=drive_copy)
-- 🛠️ **Manual Técnico** — [Ver documento](LINK_AQUI)
+- 🛠️ **Manual Técnico** — [Ver documento](https://drive.google.com/file/d/1VNZufSBROMrCch0fn4eLvPCAkeeaOw0g/view?usp=sharing)
 ---
 ## 9. Autores ✒️
 
